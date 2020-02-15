@@ -2,7 +2,7 @@
 
 # Web developerin yol xəritəsi © [DevHub](https://t.me/devhub_az)
 
-> Əgər nəsə əlavə və dəyişiklik təklifiniz olsa bu layihəni fork edib requestlərinizi göndərə bilərsiz.
+> Repo hələ də demo versiyasındadır və daim yenilənir və tərcümə olunur. Əgər nəsə əlavə və dəyişiklik təklifiniz olsa bu layihəni fork edib requestlərinizi göndərə bilərsiz.
 
 ## Mündəricat
 - [**Hər özünə hörmət edən developer bilməlidir:**](#hər-özünə-hörmət-edən-developer-bilməlidir-)
@@ -63,7 +63,7 @@
 - [ ] Proqramlaşdırma:
     - [ ] [Структура и интерпретация компьютерных программ (Харольд Абельсон, Джеральд Джей Сассман)](http://www.ozon.ru/context/detail/id/5322055/)
     - [ ] [Алгоритмы. Вводный Kurs (Томас Х. Кормен)](http://www.ozon.ru/context/detail/id/24903185/)
-    - [ ] [Совершенный код (Стив Макконнелл)](http://www.ozon.ru/context/detail/id/5508646/)
+    - [ ] [Code complete  (Steve Mcconnell)](http://aroma.vn/web/wp-content/uploads/2016/11/code-complete-2nd-edition-v413hav.pdf)
     - [ ] [Чистый код: создание, анализ и рефакторинг (Роберт Мартин)](http://www.ozon.ru/context/detail/id/21916535/)
     - [ ] [Рефакторинг. Улучшение существующего кода (Мартин Фаулер)](http://www.ozon.ru/context/detail/id/1308678/)
 
@@ -106,7 +106,6 @@
 **Məqsəd** əməliyyat sistemlərinin necə işlədiyini başa düşməkdir. Əsas rəhbərliyi öyrənin.
 
 - [ ] Resurslar:
-    - [ ] [Kurs: Bash: Основы командной строки (Hexlet)](https://ru.hexlet.io/courses/bash?ref=62000)
     - [ ] [Məqalə: The Art of Command Line (Məqalə)](https://github.com/jlevy/the-art-of-command-line/blob/master/README.md)
 
 ---
@@ -140,59 +139,54 @@ Heç olmasa əsas səviyyədə [alqoritmlər](#alqoritmlər-) ilə tanış olma�
 - [ ] Anlayışları öyrənin:
     - [ ] Верстка
     - [ ] HTML 5
-    - [ ] Разметка
-    - [ ] Семантика
-    - [ ] Cтили
-    - [ ] Cелекторы
-    - [ ] Анимация
+    - [ ] İşarələmə
+    - [ ] Semantika
+    - [ ] Üslublar
+    - [ ] Animasiya
 
 - [ ] Sənədləşmə, kurslar:
     - [ ] [w3schools](https://www.w3schools.com)
     - [ ] [MDN](https://developer.mozilla.org/en-US/)
-    - [ ] [HTML academy](https://htmlacademy.ru/)
     - [ ] [Schema.org](https://schema.org/docs/gs.html)
 
 ---
 
 ### Obyekt yönümlü proqramlaşdırma [&uarr;](#Mündəricat)
 - [ ] Anlayışları öyrənin:
-    - [ ] Класс
-    - [ ] Объект
-    - [ ] Абстракция данных
-    - [ ] Инкапсуляция
-    - [ ] Наследование
-    - [ ] Полиморфизм
+    - [ ] Klass
+    - [ ] Obyekt
+    - [ ] Məlumat mücərrədliyi
+    - [ ] Encapsulation
+    - [ ] Vərəsəlik
+    - [ ] Polimorfizm
 
 - [ ] Kitab:
-    - [ ] [Объектно-ориентированное конструирование программных систем (Бертран Мейер)](http://www.ozon.ru/context/detail/id/2336754/)
+    - [ ] [Object-Oriented Software Construction (Bertrand Meyer)](https://www.academia.edu/4903777/Object-Oriented_Software_Construction_SECOND_EDITION)
 
 ---
 
 ### Funksional proqramlaşdırma [&uarr;](#Mündəricat)
 - [ ] Anlayışları öyrənin:
-    - [ ] Абстракция данных
-    - [ ] Функция высшего порядка
-    - [ ] Чистые функции
-    - [ ] РеKursия
-    - [ ] Замыкания
-    - [ ] Неизменяемый объект
+    - [ ] Məlumat mücərrədliyi
+    - [ ] Təmiz funksiyalar
+    - [ ] Rekursiya
+    - [ ] Qısa dövrələr
+    - [ ] Dəyişməz obyekt
 
 ---
 
 ### Versiyaya nəzarət sistemləri [&uarr;](#Mündəricat)
 - [ ] Anlayışları öyrənin:
-    - [ ] Ветвления
-    - [ ] Слияние
-    - [ ] Конфликты и их разрешение
-    - [ ] Версии проекта, теги
-    - [ ] Базовые принципы разработки ПО в VCS
-    - [ ] Ежедневный цикл работы
+    - [ ] Filiallar
+    - [ ] Birləşmə
+    - [ ] Münaqişələr və onların həlli
+    - [ ] Layihə versiyaları, teqlər
 
 - [ ] Kurs:
     - [ ] [Git How To](https://githowto.com)
 
 - [ ] Kitab:
-    - [ ] [Pro Git (Scott Chacon, Ben Straub)](https://git-scm.com/book/ru/v2)
+    - [ ] [Pro Git (Scott Chacon, Ben Straub)](https://git-scm.com/book/az/v2)
 
 ---
 
