@@ -1,4 +1,8 @@
-# Web developerin yol xəritəsi (c) [DevHub](https://t.me/devhub_az)
+<p align="center">
+    <img src="image.jpg" width="" height="200" alt="DevHub logo">
+</p>
+
+# Web developerin yol xəritəsi © [DevHub](https://t.me/devhub_az)
 
 > Əgər nəsə əlavə və dəyişiklik təklifiniz olsa bu layihəni fork edib requestlərinizi göndərə bilərsiz.
 
@@ -18,7 +22,7 @@
     - [ ] [Veb təhlükəsizliyi](#veb-təhlükəsizliyi-)
     - [ ] [Vaxtın idarə olunması](#vaxtın-idarə-olunması-)
 
-- [**Карта развития Back-end разработчика:**](#Карта-развития-back-end-разработчика-)
+- [**Back-end developerin yol xəritəsi:**](#Back-end-developerin-yol-xəritəsi-)
     - [ ] [Алгоритмы](#Алгоритмы-)
     - [ ] [Серверные языки программирования](#Серверные-языки-программирования-)
     - [ ] [Паттерны программирования](#Паттерны-программирования-)
@@ -31,7 +35,7 @@
     - [ ] [Устройство веб-серверов и способы взаимодействия](#Устройство-веб-серверов-и-способы-взаимодействия-)
     - [ ] [Развертывание проектов](#Развертывание-проектов-)
 
-- [**Карта развития Front-end разработчика:**](#Карта-развития-front-end-разработчика-)
+- [**Front-end developerin yol xəritəsi:**](#Front-end-developerin-yol-xəritəsi-)
     - [ ] [JavaScript](#javascript-)
     - [ ] [Адаптивный/отзывчивый веб-дизайн](#Адаптивныйотзывчивый-веб-дизайн-)
     - [ ] [JavaScript библиотеки](#javascript-библиотеки-)
@@ -56,11 +60,11 @@
     - [ ] [Джоэл и снова о программировании (Джоэл Х. Спольски)](http://www.ozon.ru/context/detail/id/4878099/)
 
 - [ ] Kompüter arxitekturası:
-    - [ ] [Код. Тайный язык информатики (Чарльз Петцольд)](http://www.ozon.ru/context/detail/id/125884/)
+    - [ ] [Code. The Hidden Language of Computer Hardware and Software (Charles Petzold)](https://bobcarp.files.wordpress.com/2014/07/code-charles-petzold.pdf)
 
 - [ ] Proqramlaşdırma:
     - [ ] [Структура и интерпретация компьютерных программ (Харольд Абельсон, Джеральд Джей Сассман)](http://www.ozon.ru/context/detail/id/5322055/)
-    - [ ] [Алгоритмы. Вводный курс (Томас Х. Кормен)](http://www.ozon.ru/context/detail/id/24903185/)
+    - [ ] [Алгоритмы. Вводный Kurs (Томас Х. Кормен)](http://www.ozon.ru/context/detail/id/24903185/)
     - [ ] [Совершенный код (Стив Макконнелл)](http://www.ozon.ru/context/detail/id/5508646/)
     - [ ] [Чистый код: создание, анализ и рефакторинг (Роберт Мартин)](http://www.ozon.ru/context/detail/id/21916535/)
     - [ ] [Рефакторинг. Улучшение существующего кода (Мартин Фаулер)](http://www.ozon.ru/context/detail/id/1308678/)
@@ -96,7 +100,7 @@
 **Məqsəd** - kompüterlərin konseptual quruluşu ilə tanış olmaq.
 
 - [ ] Kitab:
-    - [ ] [CodeThe Hidden Language of Computer Hardware and Software (Charles Petzold)](https://bobcarp.files.wordpress.com/2014/07/code-charles-petzold.pdf)
+    - [ ] [Code. The Hidden Language of Computer Hardware and Software (Charles Petzold)](https://bobcarp.files.wordpress.com/2014/07/code-charles-petzold.pdf)
 
 ---
 
@@ -104,11 +108,8 @@
 **Məqsəd** əməliyyat sistemlərinin necə işlədiyini başa düşməkdir. Əsas rəhbərliyi öyrənin.
 
 - [ ] Resurslar:
-    - [ ] [Курс: Bash: Основы командной строки (Hexlet)](https://ru.hexlet.io/courses/bash?ref=62000)
-    - [ ] [Məqalə: Искусство командной строки (Məqalə)](https://github.com/jlevy/the-art-of-command-line/blob/master/README-ru.md)
-    - [ ] [Kitab: Операционная система UNIX (Андрей Робачевский, Сергей Немнюгин, Ольга Стесик)](http://www.ozon.ru/context/detail/id/2419365/)
-    - [ ] [Kitab: Руководство администратора Linux (Эви Немет, Гарт Снайдер, Трент Р. Хейн)](https://www.ozon.ru/context/detail/id/7607778/)
-    - [ ] [Kitab: Advanced Programming in the UNIX Environment (Richard Stevens)](https://www.amazon.com/Advanced-Programming-UNIX-Environment-3rd/dp/0321637739)
+    - [ ] [Kurs: Bash: Основы командной строки (Hexlet)](https://ru.hexlet.io/courses/bash?ref=62000)
+    - [ ] [Məqalə: The Art of Command Line (Məqalə)](https://github.com/jlevy/the-art-of-command-line/blob/master/README.md)
 
 ---
 
@@ -174,16 +175,9 @@ Heç olmasa əsas səviyyədə [alqoritmlər](#alqoritmlər-) ilə tanış olma�
     - [ ] Абстракция данных
     - [ ] Функция высшего порядка
     - [ ] Чистые функции
-    - [ ] Рекурсия
+    - [ ] РеKursия
     - [ ] Замыкания
     - [ ] Неизменяемый объект
-
-- [ ] Məqalələr:
-    - [ ] [Funksional proqramlaşdırma для всех (habrahabr)](https://habrahabr.ru/post/142351/)
-    - [ ] [Умение видеть абстракции (habrahabr)](https://habrahabr.ru/company/infopulse/blog/185144/)
-
-- [ ] Kitab:
-    - [ ] [Структура и интерпретация компьютерных программ (Харольд Абельсон, Джеральд Джей Сассман)](http://www.ozon.ru/context/detail/id/5322055/)
 
 ---
 
@@ -196,8 +190,8 @@ Heç olmasa əsas səviyyədə [alqoritmlər](#alqoritmlər-) ilə tanış olma�
     - [ ] Базовые принципы разработки ПО в VCS
     - [ ] Ежедневный цикл работы
 
-- [ ] Курс:
-    - [ ] [Git How To](https://githowto.com/ru)
+- [ ] Kurs:
+    - [ ] [Git How To](https://githowto.com)
 
 - [ ] Kitab:
     - [ ] [Pro Git (Scott Chacon, Ben Straub)](https://git-scm.com/book/ru/v2)
@@ -226,7 +220,7 @@ Heç olmasa əsas səviyyədə [alqoritmlər](#alqoritmlər-) ilə tanış olma�
     - [ ] [HTTP запрос](http://citforum.ru/internet/cgi_tut/rqst.shtml)
     - [ ] [HTTP ответ](http://citforum.ru/internet/cgi_tut/spns.shtml)
 
-- [ ] Курс:
+- [ ] Kurs:
     - [ ] [HTTP protokolu (Hexlet)](https://ru.hexlet.io/courses/http_protocol?ref=62000)
 
 ---
@@ -295,12 +289,12 @@ Vaxtın idarə olunması - технология организации врем�
 - [ ] Məqalələr:
     - [ ] [Пузырьковая сортировка и все-все-все (habrahabr)](https://habrahabr.ru/post/204600/)
     - [ ] [Алгоритмы поиска в строке (habrahabr)](https://habrahabr.ru/post/111449/)
-    - [ ] [Алгоритмы и структуры данных поиска. Лекции и курсы от Яндекса (habrahabr)](https://habrahabr.ru/company/yandex/blog/208716/)
+    - [ ] [Алгоритмы и структуры данных поиска. Лекции и Kursы от Яндекса (habrahabr)](https://habrahabr.ru/company/yandex/blog/208716/)
     - [ ] [Алгоритм Дейкстры. Поиск оптимальных маршрутов на графе (habrahabr)](https://habrahabr.ru/post/111361/)
 
 - [ ] Kitablar:
     - [ ] [Грокаем алгоритмы. Иллюстрированное пособие для программистов и любопытствующих (Адитья Бхаргава)](https://www.ozon.ru/context/detail/id/139296295/)
-    - [ ] [Алгоритмы. Вводный курс (Томас Х. Кормен)](http://www.ozon.ru/context/detail/id/24903185/)
+    - [ ] [Алгоритмы. Вводный Kurs (Томас Х. Кормен)](http://www.ozon.ru/context/detail/id/24903185/)
 
 - [ ] Resurslar:
     - [ ] [HackerRank](https://www.hackerrank.com/)
@@ -479,7 +473,7 @@ Bir dildə dayanmaq lazım deyil, 'beynin JAVA' görə ya da obiri səbəblərə
     - [ ] Переменные
     - [ ] Типы данных
     - [ ] Функции
-    - [ ] Рекурсия
+    - [ ] РеKursия
     - [ ] Замыкания
     - [ ] Область видимости
     - [ ] Объекты
