@@ -1,6 +1,6 @@
 <img src="road.jpg" alt="Developer road">
 
-# Azerbaycan developerin ən böyük və ən faydalıdı yol xəritəsi © [DevHub](https://t.me/devhub_az)
+# Azerbaycan developerin ən böyük və ən faydalı yol xəritəsi © [DevHub](https://t.me/devhub_az)
 
 > Repo hələ də demo versiyasındadır və daim yenilənir və tərcümə olunur. Əgər nəsə əlavə və dəyişiklik təklifiniz olsa [burda](https://github.com/DevHub-Azerbaycan/devmap/issues) yaza bilərsiz.
 
