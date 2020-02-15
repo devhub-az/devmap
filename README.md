@@ -2,7 +2,7 @@
 
 # Web developerin yol xəritəsi © [DevHub](https://t.me/devhub_az)
 
-> Repo hələ də demo versiyasındadır və daim yenilənir və tərcümə olunur. Əgər nəsə əlavə və dəyişiklik təklifiniz olsa bu layihəni fork edib requestlərinizi göndərə bilərsiz.
+> Repo hələ də demo versiyasındadır və daim yenilənir və tərcümə olunur. Əgər nəsə əlavə və dəyişiklik təklifiniz olsa [burda](https://github.com/DevHub-Azerbaycan/devmap/issues) yaza bilərsiz.
 
 ## Mündəricat
 - [**Hər özünə hörmət edən developer bilməlidir:**](#hər-özünə-hörmət-edən-developer-bilməlidir-)
