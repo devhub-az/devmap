@@ -11,7 +11,7 @@
 
 ---
 ## Mündəricat
-- [**Hər özünə hörmət edən developer bilməlidir:**](#hər-özünə-hörmət-edən-developer-bilməlidir-)
+- [**Hər bir developer bilməlidir:**](#hər-bir-developer-bilməlidir-)
     - [ ] [Kitablar](#kitablar-)
     - [ ] [İngilis dili](#İngilis-dili-)
     - [ ] [Kompüter arxitekturası](#kompüter-arxitekturası-)
@@ -52,7 +52,7 @@
 
 ---
 
-## Hər özünə hörmət edən developer bilməlidir [&uarr;](#Mündəricat)
+## Hər bir developer bilməlidir [&uarr;](#Mündəricat)
 
 ### Kitablar [&uarr;](#Mündəricat)
 Ən yaxşısı və vacib kitablar istənilən istiqamətdəki proqramçılar üçün.
