@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="image.jpg" width="" height="200" alt="DevHub logo">
+    <img src="road.jpg" width="" height="200" alt="DevHub logo">
 </p>
 
 # Web developerin yol xəritəsi © [DevHub](https://t.me/devhub_az)
