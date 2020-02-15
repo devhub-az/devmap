@@ -1,6 +1,4 @@
-<p align="center">
-    <img src="road.jpg" width="" height="200" alt="DevHub logo">
-</p>
+<img src="road.jpg" alt="Developer road">
 
 # Web developerin yol xəritəsi © [DevHub](https://t.me/devhub_az)
 
