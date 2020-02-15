@@ -4,10 +4,12 @@
 
 > Repo hələ də demo versiyasındadır və daim yenilənir və tərcümə olunur. Əgər nəsə əlavə və dəyişiklik təklifiniz olsa [burda](https://github.com/DevHub-Azerbaycan/devmap/issues) yaza bilərsiz.
 
-> Yeniləmələri izləmək üçün bu düyməsinə basın
->
+---
+## Yeniləmələri izləmək üçün bu düyməsinə basın
+
 <img src="button.png" alt="button">
 
+---
 ## Mündəricat
 - [**Hər özünə hörmət edən developer bilməlidir:**](#hər-özünə-hörmət-edən-developer-bilməlidir-)
     - [ ] [Kitablar](#kitablar-)
