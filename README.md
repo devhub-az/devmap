@@ -87,7 +87,7 @@
 ### İngilis dili [&uarr;](#Mündəricat)
 **Niyə** - ən yaxşı kurslar, arayış və təlim materiallarının əksəriyyəti ingilis dilində mövcuddur. Əgər çətinliklər yaranarsa, ingilis dilini bilməklə ümumdünya şəbəkəsində cavab tapmaq şansı daha yüksəkdir. 
 
-- Полезные Resurslar:
+- Resurslar:
     - [ ] [Duolingo](https://www.duolingo.com/)
     - [ ] [Lingualeo](https://lingualeo.com/)
     - [ ] [Babadum](https://babadum.com/)
